@@ -1,4 +1,7 @@
 # reads in "School Mapping 2019" file
+
+#poop
+
 # output a csv file formatted for Shopify product import function
 # meant to just add the school gown BUNDLE products, not accessories, not photography
 import csv
